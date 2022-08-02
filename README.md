@@ -1,4 +1,4 @@
 The repo contains a test build for HACBS. It tests the following:
 
-- JDK17 required
-- Tag name matches version
+- JDK8 required
+- Tag of 1_2_3_RELEASE
