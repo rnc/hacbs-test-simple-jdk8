@@ -6,7 +6,7 @@
 
     <groupId>io.github.stuartwdouglas.hacbs-test.simple</groupId>
     <artifactId>simple-jdk8</artifactId>
-    <version>1.2.4</version>
+    <version>1.2.5</version>
     <name>HACBS Test Simple JDK8</name>
     <description>Test data for HACBS JVM build service</description>
     <url>https://github.com/stuartwdouglas/hacbs-test-simple-jdk8</url>
