@@ -27,9 +27,8 @@
     </developers>
 
     <properties>
-        <!-- We need JDK8 for such old bytecode -->
-        <maven.compiler.source>1.4</maven.compiler.source>
-        <maven.compiler.target>1.4</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <distributionManagement>
         <snapshotRepository>
